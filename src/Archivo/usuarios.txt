@@ -1,0 +1,6 @@
+Comprador:Jhon:Perez
+
+
+Artista:nombre:apellido:curriculum:distinciones
+1
+Nombre: descripción: estilo: 200000
